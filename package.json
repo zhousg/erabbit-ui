@@ -1,8 +1,12 @@
 {
   "name": "erabbit-ui",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "private": false,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhousg/erabbit-ui.git"
+  },
   "main": "packages/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",

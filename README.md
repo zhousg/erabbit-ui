@@ -153,7 +153,7 @@ props
 `与router-link的to属性一致`
 
 
-### 更多组件
+### 数字选择
 
 `xtx-numbox` 
 
