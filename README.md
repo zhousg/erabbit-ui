@@ -1,10 +1,19 @@
+
+
+
 # 小兔鲜组件库
 
-## started
+小兔鲜UI组件库，基于Vue3开发，服务于电商平台小兔鲜儿。
+
+## Installation
+
+基于：vue3 @vueuse/core axios vue-router less less-loader
+
 ```bash
-// axios vue less less-loader 基于vuecli
 yarn add erabbit-ui
 ```
+
+## Usage
 
 ```html
 <!-- index.html -->
@@ -22,7 +31,7 @@ createApp(App).use(ErabbitUI).mount('#app')
 ```
 
 
-## docs
+## Docs
 
 ### 面包屑
 
